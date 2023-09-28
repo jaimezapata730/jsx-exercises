@@ -1,0 +1,28 @@
+.username,
+.date {
+  font-family: 'Montserrat', sans-serif;
+  color: blueviolet;
+  display: inline-block;
+  margin: 0 20px;
+}
+
+.h3 {
+    font-family: 'Montserrat', sans-serif;
+    color: gray;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.tweet {
+    font-family: 'Montserrat', sans-serif;
+    border: 1px solid #0099CC;
+    border-radius: 5px;
+    margin: 10px 30%;
+    padding: 20px;
+}
+
+h1 {
+    color: gray;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
